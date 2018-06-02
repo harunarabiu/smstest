@@ -1,7 +1,7 @@
 <!-- 
     written by Hmax
-    this is the simplest way to implement, but its not recommended.
-    using CURL is better is the best way to implement this. check sms.php 
+    this is the simplest way to send sms through the GET API, but its not recommended.
+    using CURL is the best way to implement this. check sms.php 
 -->
 <!DOCTYPE html>
 <html>
